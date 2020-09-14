@@ -1,0 +1,252 @@
+[
+   {
+       "name":"chicken pesto pasta",
+       "price":"18",
+       "desc":"stir fried pasta with homemade potato sauce, chicken cube, cherry tomatoes, toasted pine nuts and topped with parmesan cheese"
+   },
+   {
+       "name":"spicy thai basil pasta",
+       "price":"18",
+       "desc":"spicy stir-fried spaghetti with pulled chicken, mushrooms, thai basil, chili flakes, garlic and soy sauce, topped with a sunny side up"
+   },
+   {
+       "name":"white sauce chicken pasta",
+       "price":"21",
+       "desc":"spaghetti in white cream sauce with smoked shredded chicken and zucchini"
+   },
+   {
+       "name":"smoked duck aglio olio",
+       "price":"23",
+       "desc":"spaghetti tossed with caramelized smoked duck, olive oil, basil leaves, garlic, bell pepper, chili flakes and topped with parmmesan cheese"
+   },
+   {
+       "name":"creamy seafood pasta",
+       "price":"23",
+       "desc":"creamy curry pasta with chunky sea catch, topped with sunny side up and parmesan cheese"
+   },
+   {
+       "name":"aglioolio with seabass",
+       "price":"25",
+       "desc":"spaghetti tossed with olive oil and garlic flakes, topped with pan-seared seabass fillet and local flavor infused salsa."
+   },
+   {
+       "name":"red bolognese",
+       "price":"16",
+       "desc":"slow cooked tomato de coulis with minced chicken mirepolis, served with poached eggs and whipped with parmesan cheese"
+   },
+   {
+       "name":"pesto pasta",
+       "price":"16",
+       "desc":"stir fried pasta with homemade pesto sauce, cherry tomatoes, toasted pine nuts and topped with parmesan cheese"
+   },
+   {
+       "name":"mushroom carbonara",
+       "price":"18",
+       "desc":"the classic carbonara with parmesan egg sauce and sauteed mushrooms"
+   },
+   {
+       "name":"------------",
+       "price":"SNACKS",
+       "desc":"waffle fries"
+   },
+   {
+       "name":"crispy waffle fries seasoned with cajun spices",
+       "price":"",
+       "desc":"seasalt mixed fries"
+   },
+   {
+       "name":"sweet potato and shoestring fries tossed with sea salt",
+       "price":"",
+       "desc":"sweet potato fries"
+   },
+   {
+       "name":"sweet potato fries with seasalt",
+       "price":"",
+       "desc":"spicy mixed fries"
+   },
+   {
+       "name":"sweet potato andshoestring fries tossed with crispy fish sambal & served with mayonnaise on side",
+       "price":"",
+       "desc":"truffle mixed fries"
+   },
+   {
+       "name":"shaved parmesan on sweet potato and shoestring fries. Truffle mayo served aside",
+       "price":"",
+       "desc":"guacamole fries"
+   },
+   {
+       "name":"waffle fries topped with torched cheese, tomato salsa and sour crream served with homemade guacamole",
+       "price":"",
+       "desc":"---------------------"
+   },
+   {
+       "name":"cheecky chicken",
+       "price":"25",
+       "desc":"herbs-based waffle topped with red bolognese, maple chicken cube, portabello mushroom, mix greens & a poached egg"
+   },
+   {
+       "name":"donald's waffle",
+       "price":"26",
+       "desc":"herbs-based waffle topped with duck leg confit, sunny side up, and served with mustard maple syrup on the side"
+   },
+   {
+       "name":"buffy beef",
+       "price":"28",
+       "desc":"herbs-based waffle topped with sunny side up, caramelized beef bacons, mushrooms, confit cherry tomatoes, drizzle with cheese sauce"
+   },
+   {
+       "name":"--------------------",
+       "price":"SIGNATURE WAFFLE",
+       "desc":"rebecca"
+   },
+   {
+       "name":"Our all time favorite waffle with strawberries, blueberries and bananas, topped with earl grey ice cream, almond flakes, coconut flakes and maple syrup",
+       "price":"",
+       "desc":"david"
+   },
+   {
+       "name":"waffle topped with vanilla ice cream, bananas, almond flakes, toasted coconut flakes, peanut butter cream and a drizzle of chocolate sauce",
+       "price":"",
+       "desc":"aiko mochi"
+   },
+   {
+       "name":"mochi waffle topped with grapes, homemade lemon cream cheese, pistachio flakes and a drizzle of honey",
+       "price":"",
+       "desc":"black star"
+   },
+   {
+       "name":"a tribute to one of our favorite pantry house for this refreshing combination of dessert. Waffle topped with watermelon sorbet, strawberries, grapes, lychee and homemade rose cream",
+       "price":"",
+       "desc":"----------------"
+   },
+   {
+       "name":"short black",
+       "price":"7",
+       "desc":"null"
+   },
+   {
+       "name":"americano",
+       "price":"8",
+       "desc":"black"
+   },
+   {
+       "name":"black magic",
+       "price":"9",
+       "desc":"black"
+   },
+   {
+       "name":"iced americano",
+       "price":"9",
+       "desc":"black"
+   },
+   {
+       "name":"picolo latte",
+       "price":"10",
+       "desc":"white"
+   },
+   {
+       "name":"classic cappuccino",
+       "price":"10",
+       "desc":"white"
+   },
+   {
+       "name":"cappucino",
+       "price":"11",
+       "desc":"white"
+   },
+   {
+       "name":"magic",
+       "price":"10",
+       "desc":"white"
+   },
+   {
+       "name":"flat white",
+       "price":"11",
+       "desc":"white"
+   },
+   {
+       "name":"chocolate",
+       "price":"12",
+       "desc":"brown"
+   },
+   {
+       "name":"mocha",
+       "price":"13",
+       "desc":"brown"
+   },
+   {
+       "name":"Matcha Latte",
+       "price":"14",
+       "desc":"Niko Neko Matcha"
+   },
+   {
+       "name":"Hojicha Latte",
+       "price":"14",
+       "desc":"Niko Neko Matcha"
+   },
+   {
+       "name":"English Breakfast",
+       "price":"8",
+       "desc":"tea"
+   },
+   {
+       "name":"French Earl Grey",
+       "price":"8",
+       "desc":"tea"
+   },
+   {
+       "name":"Chamomil Blossom",
+       "price":"8",
+       "desc":"tea"
+   },
+   {
+       "name":"oolong kiwi berry tea",
+       "price":"8",
+       "desc":"tea"
+   },
+   {
+       "name":"owlsome leonade",
+       "price":"11",
+       "desc":"cooler"
+   },
+   {
+       "name":"autumn lover",
+       "price":"13",
+       "desc":"cooler"
+   },
+   {
+       "name":"summer story",
+       "price":"13",
+       "desc":"cooler"
+   },
+   {
+       "name":"passion honey lemon",
+       "price":"10",
+       "desc":"signature"
+   },
+   {
+       "name":"nutty latte",
+       "price":"13",
+       "desc":"signature"
+   },
+   {
+       "name":"nutty mocha",
+       "price":"14",
+       "desc":"signature"
+   },
+   {
+       "name":"rose latte",
+       "price":"11",
+       "desc":"signature"
+   },
+   {
+       "name":"peppermint chocolate",
+       "price":"13",
+       "desc":"signature"
+   },
+   {
+       "name":"special iced coffee",
+       "price":"15",
+       "desc":"signature"
+   }
+]
